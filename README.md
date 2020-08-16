@@ -1,5 +1,6 @@
 # EasyDarwin开源流媒体服务器
-
+!!!!
+注意：clone的主要mudi是为了看EasyDarwin的一个nodejs版本。有一个nodejs分支，一定要学习一下！！！
 
 ## 主要功能特点
 
